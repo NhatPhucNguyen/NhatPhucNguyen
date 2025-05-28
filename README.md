@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nhat Phuc Nguyen
+# 👋 Hi, I'm Nhat (Edward) Phuc Nguyen
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0366D6&center=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;Web+Developer" alt="Typing SVG" />
